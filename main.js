@@ -34,18 +34,19 @@ function fetchDepartureInformation(busCode){
   fetch(url)
     .then(response => response.json())
     .then(data => {
-      const departures = data.departures;
-      const rows = Object.keys(departures)
-        .filter(line => departures[line].length > 0)
+
+      // Get the departures.all values
+      const route = data.departures.all;
+      const rows  = Object.keys(route)
+        .filter(line => route.length > 0)
         .slice(0,5) // Present first 5 routes
         .map(line => {
-          const service = departures[line][0];
           return `
             <br>
             <tr>
-              <td>${service.aimed_departure_time}</td>
-              <td>${service.line_name}</td>
-              <td>${service.direction}</td>
+              <td>${route[line].aimed_departure_time}</td>
+              <td>${route[line].line_name}</td>
+              <td>${route[line].direction}</td>
             </tr>
           `;
         })
