@@ -1,0 +1,742 @@
+{
+  "id": "https://transportapi.com/v3/uk/bus/stop_timetables/450010311.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+  "atcocode": "450010311",
+  "smscode": "45010311",
+  "request_time": "2024-02-02T14:58:56+00:00",
+  "name": "Oakwood Clock",
+  "stop_name": "Oakwood Clock",
+  "bearing": "SW",
+  "indicator": "S bound",
+  "locality": "Oakwood, Leeds",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -1.50629,
+      53.82648
+    ]
+  },
+  "departures": {
+    "all": [
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/15:01/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:01",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:01"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:01"
+          }
+        },
+        "best_departure_estimate": "15:01",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13/inbound/450010311/2024-02-02/15:11/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13",
+        "line_name": "13",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:11",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:11"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:11"
+          }
+        },
+        "best_departure_estimate": "15:11",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/HRGT/X98/outbound/450010311/2024-02-02/15:15/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "X98",
+        "line_name": "X98",
+        "dir": "outbound",
+        "direction": "Leeds",
+        "operator": "HRGT",
+        "operator_name": "The Harrogate Bus Company",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:15",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:15"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:15"
+          }
+        },
+        "best_departure_estimate": "15:15",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/15:16/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:16",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:16"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:16"
+          }
+        },
+        "best_departure_estimate": "15:16",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13A/inbound/450010311/2024-02-02/15:20/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13A",
+        "line_name": "13A",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:20",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:20"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:20"
+          }
+        },
+        "best_departure_estimate": "15:20",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/15:29/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:29",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:29"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:29"
+          }
+        },
+        "best_departure_estimate": "15:29",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13/inbound/450010311/2024-02-02/15:35/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13",
+        "line_name": "13",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:35",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:35"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:35"
+          }
+        },
+        "best_departure_estimate": "15:35",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/15:44/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:44",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:44"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:44"
+          }
+        },
+        "best_departure_estimate": "15:44",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/HRGT/X99/outbound/450010311/2024-02-02/15:45/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "X99",
+        "line_name": "X99",
+        "dir": "outbound",
+        "direction": "Leeds",
+        "operator": "HRGT",
+        "operator_name": "The Harrogate Bus Company",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:45",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:45"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:45"
+          }
+        },
+        "best_departure_estimate": "15:45",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13A/inbound/450010311/2024-02-02/15:48/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13A",
+        "line_name": "13A",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "15:48",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "15:48"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "15:48"
+          }
+        },
+        "best_departure_estimate": "15:48",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/16:00/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:00",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:00"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:00"
+          }
+        },
+        "best_departure_estimate": "16:00",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13/inbound/450010311/2024-02-02/16:07/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13",
+        "line_name": "13",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:07",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:07"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:07"
+          }
+        },
+        "best_departure_estimate": "16:07",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/16:15/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:15",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:15"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:15"
+          }
+        },
+        "best_departure_estimate": "16:15",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13A/inbound/450010311/2024-02-02/16:20/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13A",
+        "line_name": "13A",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:20",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:20"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:20"
+          }
+        },
+        "best_departure_estimate": "16:20",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/HRGT/X98/outbound/450010311/2024-02-02/16:20/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "X98",
+        "line_name": "X98",
+        "dir": "outbound",
+        "direction": "Leeds",
+        "operator": "HRGT",
+        "operator_name": "The Harrogate Bus Company",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:20",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:20"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:20"
+          }
+        },
+        "best_departure_estimate": "16:20",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/16:29/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:29",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:29"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:29"
+          }
+        },
+        "best_departure_estimate": "16:29",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13/inbound/450010311/2024-02-02/16:39/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13",
+        "line_name": "13",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:39",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:39"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:39"
+          }
+        },
+        "best_departure_estimate": "16:39",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/12/inbound/450010311/2024-02-02/16:46/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "12",
+        "line_name": "12",
+        "dir": "inbound",
+        "direction": "White Rose Centre",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:46",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:46"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:46"
+          }
+        },
+        "best_departure_estimate": "16:46",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/FLDS/13A/inbound/450010311/2024-02-02/16:52/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "13A",
+        "line_name": "13A",
+        "dir": "inbound",
+        "direction": "Middleton Thorpe Ln",
+        "operator": "FLDS",
+        "operator_name": "First Leeds",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:52",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:52"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:52"
+          }
+        },
+        "best_departure_estimate": "16:52",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      },
+      {
+        "id": "https://transportapi.com/v3/uk/bus/route/HRGT/X99/outbound/450010311/2024-02-02/16:55/timetable.json?app_id=ee05f247&app_key=378c2b4e057a94b33f164928591a1543",
+        "mode": "bus",
+        "line": "X99",
+        "line_name": "X99",
+        "dir": "outbound",
+        "direction": "Leeds",
+        "operator": "HRGT",
+        "operator_name": "The Harrogate Bus Company",
+        "date": "2024-02-02",
+        "aimed_departure_time": "16:55",
+        "aimed": {
+          "arrival": {
+            "date": "2024-02-02",
+            "time": "16:55"
+          },
+          "departure": {
+            "date": "2024-02-02",
+            "time": "16:55"
+          }
+        },
+        "best_departure_estimate": "16:55",
+        "source": "tnds",
+        "expected_departure_date": null,
+        "expected_departure_time": null,
+        "expected": {
+          "arrival": {
+            "date": null,
+            "time": null
+          },
+          "departure": {
+            "date": null,
+            "time": null
+          }
+        }
+      }
+    ]
+  }
+}
