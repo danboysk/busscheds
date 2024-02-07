@@ -1,7 +1,7 @@
 // To make live requests get your app_id and app_key by signing up at https://developer.transportapi.com/signup
 // and filling them here
-const appId       = 'ee05f247';
-const appKey      = '378c2b4e057a94b33f164928591a1543';
+const appId       = '';
+const appKey      = '';
 const fetchButton = document.getElementById('getBusInfo');
 
 // Name: fetchButton
